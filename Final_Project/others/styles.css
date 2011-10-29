@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+
+body {
+	margin-top: 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #333;
+	background-color: #efefef;
+}
+
+.pagecontent
+{
+	 background-color:#efefef;
+     font-family:Verdana, Geneva, sans-serif;
+	 font-size:12px;
+	 font-style:normal;
+	 font-weight:normal;
+	 color: #000000;
+	 margin:auto;
+	 padding:1px;
+	 vertical-align:top;
+}
+.scrollable 
+{
+	display:block;
+	height:100px;
+	width:390px;
+	overflow:auto;
+	border:#000 1px solid;
+}
+#resizable { width: 750px; height: 200px; padding: 0.5em; }
+#resizable h3 { text-align: left; margin: 0; }
+
+#resizable2 { width: 250px; height: 500px; padding: 0.5em; }
+#resizable2 h3 { text-align: center; margin: 0; }
+
+#resizable1 { width: 750px; height: 300px; padding: 0.5em; }
+#resizable1 h3 { text-align: left; margin: 0; }
